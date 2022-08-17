@@ -1,0 +1,45 @@
+*{
+    margin: 5px;
+}
+
+.logo{
+    text-align: center;
+    width: 70%;
+}
+.sign-in{
+    text-align: left;
+    font: bold;
+    padding-left: 42.2%;
+
+}
+.mb-3 {
+    text-align: center;
+    margin: auto;
+    width: 15%;
+    text-align: left;
+    font-size: small;
+    font: bold;
+
+}
+.mb-4 h3{
+    padding-left: 42%;
+    font-size: 90%;
+    margin: 5px;
+}
+.checkbox{
+    padding-left: 42%;
+    align-self: auto;
+}
+
+.newToAmazon h5{
+    font-size: 125%;
+    color: darkgray;
+    text-align: center;
+    
+}
+.row{
+    text-align: center;
+    margin: auto;
+    border: auto;
+    width: 15%;
+}
